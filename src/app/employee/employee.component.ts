@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
   styleUrl: './employee.component.css',
 })
 export class EmployeeComponent {
-
+  lathato = true;
+  
 }

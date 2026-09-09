@@ -10,4 +10,6 @@ import { RouterOutlet, RouterLink } from '@angular/router';
 export class App {
   protected readonly title = signal('humerweb');
   sajat = 'alma';
+
+  loggedIn = true;
 }
